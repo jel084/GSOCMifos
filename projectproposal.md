@@ -1,10 +1,10 @@
-# AI Support Agent for Mifos/Fineract Community using Botpress
+# AI Support Agent for Mifos Community using Botpress
 
 ## Project Overview
 
-The Mifos and Fineract ecosystems offer robust platforms for financial services, but their complexity poses a challenge for new users and developers. Currently, community support is provided through Slack and various documentation sources, leading to inconsistent and delayed responses.
+The Mifos and Fineract ecosystems offer cvast platforms for financial services, but their complexity poses a challenge for new users and developers. Currently, community support is provided through Slack and various documentation sources, leading to inconsistent and delayed responses.
 
-This project aims to create an intelligent, AI-powered support chatbot using **Botpress**. The bot will assist users by answering frequently asked questions, linking to relevant documentation, and learning from historical community interactions.
+This project aims to create an AI-powered support chatbot using **Botpress**. The bot will assist users by answering frequently asked questions, linking to relevant documentation, and learning from historical community interactions.
 
 Initially, the chatbot will support one Mifos product and be deployed on Slack. Future iterations may expand to cover other products and include web integration.
 
